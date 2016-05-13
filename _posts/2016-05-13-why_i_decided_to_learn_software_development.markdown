@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Why I Decided to Learn Software Development".
+date:   2016-05-13 17:44:14 +0000
+---
+
+
+My decision to learn software development goes back a few years to my introduction to computers and their inner workings thanks to my time in the Navy and some of the fine electronic schools they put me through. From the very beginning I found them fascinating in that they are allow seemingly endless possibilities to create and solve problems, which I love to do. After my Navy stint, I enrolled in a computer programming course at a local junior college and got my first taste of programming which was a contrast to the hardware side of things the Navy taught me. We learned concepts of program logic as well as programming fundamentals to go with several programming languages such as COBOL, FORTRAN, C, and Assembly language. After completing the program I was lucky enough to land my first job as an application programmer at a local beverage company writing code for everyday business tasks such as accounts receivable, accounts payable, inventory, monthly financial reports and the like. While this was a good start and gave me a chance to practice my craft, the limited scope of programming in that environment and the lack of upward mobility persuaded me to leave the company after 3 years. Unfortunately, the market in my local area for programmers at the time was very limited and so I pursued other occupations to pay the bills but always knew that I would be back to my occupational true love. Fast forward a few years and my wife and I decided it was time for both of us to make a change from our current 9 to 5 gigs to careers we believed in, nursing for her and Software Development for me and we could not be happier. Sure we have taken a hit financially as there is training and starting anew but our whole outlook on life has changed and as a very positive side note, has shown our son that change is good and nothing to fear. I am looking forward to the challenges ahead and the world of possibilities that exist in my new career in something that I am passionate about. We all should be so lucky!
+
+
