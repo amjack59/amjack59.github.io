@@ -1,0 +1,21 @@
+# Site settings
+title:  A Coding Bootcamp Journey
+header-img: img/home-bg.png
+email: jackwoodwardschool@gmail.com
+copyright_name: amjack59
+description: > # this means to ignore newlines until "baseurl:"
+  A Geek Goes Back to School
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: amjack59
+github_username:  amjack59
+learn_profile: amjack59
+email_username: jackwoodwardschool@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
