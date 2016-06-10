@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "**HTML Fundementals and Life**"
-date:   2016-06-10 17:30:06 +0000
+date:   2016-06-10 13:30:07 -0400
 ---
 
 
